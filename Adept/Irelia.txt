@@ -1,0 +1,35 @@
+Abilities = "Bladestorm"
+
+Ability_Type = "Active"
+
+Ability_Description = "Irelia launches a barrage of blades infront of her, dealing magic damage and applying on-hit effects.Enemies hit are disarmed for a few seconds."
+
+Ability_Damage = [ 200 , 300 , 600 ]
+
+Disarm_Duration = [ 2.5 , 3 , 3.5 ]
+
+Class="Adepts calm the flow of battle, reducing the Attack Speed of all enemies by 50% for a few seconds at the start of combat.
+
+Trait_Bonus_Time={2:2,3:3.5,4:6} 
+
+Cost = 3
+
+Health = [800 , 1440 , 2592]
+
+Mana = 100
+
+Starting_Mana = 50
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[ 36 , 64 , 116]
+
+Damage=[ 55 , 99 , 178]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

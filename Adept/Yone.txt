@@ -1,0 +1,36 @@
+Ability="Seal Fate"
+
+Ability_Type="Active"
+
+Ability_Description = "Yone strikes along a path in front of him, dealing magic damage split between all enemies hit. Enemies hit are marked for death, reducing their Armor and Magic Resist by 60%. Yone's spell is then replaced with Unforgotten until there are no remaining enemies marked for death. Unforgotten (20 mana): Yone dashes to the lowest health enemy that is marked for death, killing them instantly."
+
+Damage=[ 600 , 1200 , 9999 ]
+
+Unforgotten_Base_Damage=[ 200 , 400 , 1000 ]
+
+
+Class="Adepts calm the flow of battle, reducing the Attack Speed of all enemies by 50% for a few seconds at the start of combat.
+
+Trait_Bonus_Time={2:2,3:3.5,4:6} 
+
+Cost = 5
+
+Health = [950 , 1710 , 3078]
+
+Mana = 60
+
+Starting_Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[ 76 , 134 , 259]
+
+Damage=[ 80 , 144 , 259]
+
+Attack_Speed = 0.95
+
+Critical_Rate = 25
+
+Range = 1

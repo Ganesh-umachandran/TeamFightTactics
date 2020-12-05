@@ -1,0 +1,35 @@
+Ability="Shadow Dash"
+
+Ability_Type="Active"
+
+Ability_Description = "Shen dashes past his target, shielding himself against damage and taunting all adjacent enemies."
+
+Shield_amount = [ 500 , 800 , 4000 ]
+
+Shield_amount_Duration = [ 4 , 4 , 8 ]
+
+Class="Adepts calm the flow of battle, reducing the Attack Speed of all enemies by 50% for a few seconds at the start of combat.
+
+Trait_Bonus_Time={2:2,3:3.5,4:6} 
+
+Cost = 4
+
+Health = [950 , 1710 , 3078]
+
+Mana = 100
+
+Starting_Mana = 50
+
+Armor = 60
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[ 39 , 70 , 194]
+
+Damage=[ 60 , 108 , 194]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1
