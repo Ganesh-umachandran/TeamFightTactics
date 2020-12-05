@@ -1,0 +1,33 @@
+Ability="Consume"
+
+Ability_Type="Active"
+
+Ability_Description = "Willump bites his target, dealing magic damage. If Willump's target has less Health than him before the bite, it deals an additional 50% damage and deals true damage instead."
+
+Ability_Damage = [ 450 ,  650 , 1800]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={2:400,4:800,6:1200,8:1800}
+
+Cost = 3
+
+Health = [750 , 1350 , 2430]
+
+Mana = 85
+
+Starting_Mana = 0
+
+Armor = 50
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[36 , 64 , 116]
+
+Damage=[ 65 , 117 , 211]
+
+Attack_Speed = 0.55
+
+Critical_Rate = 25
+
+Range = 1

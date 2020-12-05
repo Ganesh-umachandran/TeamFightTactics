@@ -1,0 +1,33 @@
+Ability="Bramble Smash"
+
+Ability_Type="Active"
+
+Ability_Description = "Maokai smashes enemies infront of him, dealing magic damage and slowing their Attack Speed by 50% for 3 seconds."
+
+Ability_Damage = [ 225 ,  350 , 550]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={2:400,4:800,6:1200,8:1800}
+
+Cost = 1
+
+Health = [700 , 1260 , 2268]
+
+Mana = 75
+
+Starting_Mana = 0
+
+Armor = 35
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 28 , 50 , 89]
+
+Damage=[ 55 , 99 , 178]
+
+Attack_Speed = 0.50
+
+Critical_Rate = 25
+
+Range = 1

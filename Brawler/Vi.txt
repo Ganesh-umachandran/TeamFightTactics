@@ -1,0 +1,35 @@
+Ability="Denting Blow"
+
+Ability_Type="Active"
+
+Ability_Description = "Vi's attack blasts through her target, dealing magic damage to all enemies in a cone and reducing their armor for 8 seconds."
+
+Ability_Damage= [ 250 , 400 , 800 ]
+
+Ability_Armour_Reduction_Percentage= [ 50 ,  75 , 100 ]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={ 2:400 , 4:800 , 6:1200 , 8:1800 }
+
+Cost = 2
+
+Health = [700 , 1260 , 2268]
+
+Mana = 60
+
+Starting_Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[39 , 70 , 126]
+
+Damage=[ 65 , 117 , 211]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25
+
+Range = 1

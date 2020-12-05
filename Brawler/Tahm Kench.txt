@@ -1,0 +1,33 @@
+Ability="Thick Skin"
+
+Ability_Type="Passive"
+
+Ability_Description = "Tahm Kench ignores damage from all sources."
+
+Ability_Damage_Reduction= [ 15 ,  25 , 75 ]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={ 2:400 , 4:800 , 6:1200 , 8:1800 }
+
+Cost = 1
+
+Health = [700 , 1260 , 2268]
+
+Mana = 0
+
+Starting_Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[43 , 77 , 138]
+
+Damage=[ 85 , 153 , 275]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25
+
+Range = 1

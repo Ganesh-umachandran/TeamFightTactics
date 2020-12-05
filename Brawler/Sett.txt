@@ -1,0 +1,35 @@
+Ability="Showstopper"
+
+Ability_Type="Active"
+
+Ability_Description = "Sett grabs his target and slams them forward, dealing a percent of his target's maximum health in magic damage to all enemies in a large area. Enemies further from the epicenter take less damage."
+
+Ability_Primary_Damage_Percentage = [ 40 ,  60 , 400]
+
+Ability_Secondary_Damage_Percentage = [ 20 ,  30 , 200]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={ 2:400 , 4:800 , 6:1200 , 8:1800 }
+
+Cost = 5
+
+Health = [1100 , 1980 , 3564]
+
+Mana = 175
+
+Starting_Mana = 100
+
+Armor = 60
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[45 , 81 , 146]
+
+Damage=[ 60 , 108 , 194]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25
+
+Range = 1

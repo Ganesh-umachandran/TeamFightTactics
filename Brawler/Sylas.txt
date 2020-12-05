@@ -1,0 +1,33 @@
+Ability="Chain Lash"
+
+Ability_Type="Active"
+
+Ability_Description = "Sylas lashes his chains out in a 3 hex line, dealing magic damage to enemies hit and increasing the cost of their next spell by 33%."
+
+Ability_Damage = [ 250 ,  400 , 600 , 1000]
+
+Class="Brawlers gain bonus Maximum Health."
+
+Brawler_Bonus_Health={ 2:400 , 4:800 , 6:1200 , 8:1800 }
+
+Cost = 2
+
+Health = [700 , 1260 , 2268]
+
+Mana = 60
+
+Starting_Mana = 30
+
+Armor = 40
+
+Manna_Regeneration = 80
+
+Damage_Per_Second=[42 , 76 , 136]
+
+Damage=[ 70 , 126 , 227]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25
+
+Range = 1
