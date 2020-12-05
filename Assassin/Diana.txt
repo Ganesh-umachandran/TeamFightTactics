@@ -1,0 +1,37 @@
+Ability="Pale Cascade"
+
+Ability_Type="Active"
+
+Ability_Description = "Diana shields herself for a few seconds and summons orbs to orbit around her. These orbs explode dealing magic damage when they contact an enemy, refreshing her shield when the final one explodes."
+
+Ability_Damage=[ 70 , 80 , 90 ,100]
+Ability_Shield_amount=[ 200 , 300 , 400 ,500]
+Ability_Orbs=[ 4 , 5 , 6 ,9]
+
+Class="Innate: Before combat starts, Assassins leap to the enemy backline. Assassins' spells can critically stike and they gain bonus Critical Strike Damage and Chance."
+
+Assassin_critical_chance={ 2:10 , 4:25 , 6:45 }
+
+Assassin_critical_Damage={2:30 , 4:60 , 6:90 }
+
+Cost = 1
+
+Health = [500 , 900 , 1620]
+
+Mana = 70
+
+Starting_Mana = 0
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 33 , 59 , 105]
+
+Damage=[ 50 , 90 , 162]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

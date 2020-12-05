@@ -1,0 +1,37 @@
+Ability="Death Lotus"
+
+Ability_Type="Active"
+
+Ability_Description = "Katarina channels for 2.5 seconds, throwing knives at nearby enemies, dealing magic damage over the duration and reducing healing by 50% to her targets for 5 seconds."
+
+Ability_Damage=[ 750 ,  900 ,1600]
+
+Ability_Number_of_Targets=[ 4 , 6 , 8 ]
+
+Class="Innate: Before combat starts, Assassins leap to the enemy backline. Assassins' spells can critically stike and they gain bonus Critical Strike Damage and Chance."
+
+Assassin_critical_chance={ 2:10 , 4:25 , 6:45 }
+
+Assassin_critical_Damage={2:30 , 4:60 , 6:90 }
+
+Cost = 3
+
+Health = [500 , 900 , 1620]
+
+Mana = 90
+
+Starting_Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 42 , 76 , 137]
+
+Damage=[ 65 , 117 , 211]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

@@ -1,0 +1,35 @@
+Ability="Truestrike"
+
+Ability_Type="Active"
+
+Ability_Description = "Talon stabs his target, striking them for a percent of his attack damage. If this kills them, Talon becomes unstoppable and untargetable while he leaps to the enemy with the lowest Armor."
+
+Ability_Damage_Percentage=[ 65 ,  135 , 400]
+
+Class="Innate: Before combat starts, Assassins leap to the enemy backline. Assassins' spells can critically stike and they gain bonus Critical Strike Damage and Chance."
+
+Assassin_critical_chance={ 2:10 , 4:25 , 6:45 }
+
+Assassin_critical_Damage={2:30 , 4:60 , 6:90 }
+
+Cost = 4
+
+Health = [750 , 1350 , 2430]
+
+Mana = 40
+
+Starting_Mana = 0
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 72 , 130 , 233]
+
+Damage=[ 90 , 162 , 292 ]
+
+Attack_Speed = 0.80
+
+Critical_Rate = 25
+
+Range = 1
