@@ -1,0 +1,37 @@
+Abilities = "Bladestorm"
+
+Ability_Type = "Active"
+
+Ability_Description = "Irelia launches a barrage of blades infront of her, dealing magic damage and applying on-hit effects.Enemies hit are disarmed for a few seconds."
+
+Ability_Damage = [ 200 , 300 , 600 ]
+
+Disarm_Duration = [ 2.5 , 3 , 3.5 ]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 3
+
+Health = [800 , 1440 , 2592]
+
+Mana = 100
+
+Starting_Mana = 50
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[ 36 , 64 , 116]
+
+Damage=[ 55 , 99 , 178]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

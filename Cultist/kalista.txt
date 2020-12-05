@@ -1,0 +1,33 @@
+Ability="Rend"
+
+Ability_Type="passive"
+
+Ability_Description = "Passive: Kalista's spears remain in her target, each one capable of dealing a percent of the target's max health as magic damage when she removes them. Kalista will remove the spears when doing so would kill the target."
+
+Ability_Maximum_Health_Damage_Percentage= [ 4 , 6 ,9 ]
+
+Origin="Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up."
+
+Cultist_Galio={ 3:Tyrant Galio, 6:Demon Lord Galio, 9:Supreme Overlord Galio }
+
+Cost = 3
+
+Health = [550 , 990 , 1782]
+
+Mana = 0
+
+Starting_Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[65 , 117 , 211]
+
+Damage=[65 , 117 , 211]
+
+Attack_Speed = 1
+
+Critical_Rate = 25
+
+Range = 3

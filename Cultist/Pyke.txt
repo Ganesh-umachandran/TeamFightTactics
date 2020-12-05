@@ -1,0 +1,41 @@
+Ability="Phantom Undertow"
+
+Ability_Type="Active"
+
+Ability_Description = "Pyke dashes behind the furthest enemy, creating an afterimage that deals magic damage and stuns enemies it passes through for a few seconds."
+
+Ability_Damage=[ 125 ,  200 , 375]
+
+Ability_Stun_Duration=[ 2 , 2.5 , 4 ]
+
+Ability_Description = "Passive: Kalista's spears remain in her target, each one capable of dealing a percent of the target's max health as magic damage when she removes them. Kalista will remove the spears when doing so would kill the target."
+
+Ability_Maximum_Health_Damage_Percentage= [ 4 , 6 ,9 ]
+
+Cost = 2
+
+Health = [700 , 1260 , 2268]
+
+Mana = 125
+
+Starting_Mana = 75
+
+Armor = 50
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[ 30 , 54 , 97]
+
+Damage=[ 50 , 90 , 172 ]
+
+Attack_Speed = 0.60
+
+Critical_Rate = 25
+
+Range = 1
+
+
+
+
+
+

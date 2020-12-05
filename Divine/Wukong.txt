@@ -1,0 +1,40 @@
+Ability="Crushing Blow"
+
+Ability_Type="Active"
+
+Ability_Description = "Wukong slams his target with his staff, dealing a percent of his Attack Damage as physical damage and stunning them for a few seconds."
+
+Ability_Damage_Percentage= [ 225 , 250 ,275 ]
+
+Ability_Stun_Duration= [ 1.5 , 2 , 3 ]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 1
+
+Health = [650 , 1170 , 2106]
+
+Mana = 50
+
+Starting_Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[36 , 64 , 116]
+
+Damage=[  55 , 99 , 178]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1
+
+
+

@@ -1,0 +1,36 @@
+Ability="Spectral Lantern"
+
+Ability_Type="Active"
+
+Ability_Description = "Thresh throws his lantern to the lowest-health ally, shielding them and nearby allies against damage for 4 seconds."
+
+Ability_Shield_Amount=[ 250 , 450 , 750 ]
+
+Origin="Dusk champions increase all allies Spell Power."
+
+Trait_Bonus_Spell_Power = {2:All allies gain 20% Spell Power,4:And Dusk champions gain an additional 50%,6:40% Spell Power for all, and an extra 70% for Dusk champions}
+
+Cost = 2
+
+Health = [  700 , 1260 , 2268]
+
+Mana = 100
+
+Starting_Mana = 50
+
+Armor = 80
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 33 , 59 , 107]
+
+Damage=[ 60 , 108 , 194 ]
+
+Attack_Speed = 0.55
+
+Critical_Rate = 25
+
+Range = 2
+
+
+

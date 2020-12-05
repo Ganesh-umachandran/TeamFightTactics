@@ -1,0 +1,35 @@
+Abilities = "Counter Strike"
+
+Ability_Type = "Active"
+
+Ability_Description = "Jax dodges all incoming attacks for 2 seconds, then strikes all nearby units, dealing magic damage and stunning them for 1.5 seconds."
+
+Ability_Damage = [ 150 , 250 , 450 ]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 3
+
+Health = [750 , 1350 , 2430]
+
+Mana = 110
+
+Starting_Mana = 60
+
+Armor = 40
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[ 45 , 81 , 146]
+
+Damage=[ 60 , 108 , 194]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25
+
+Range = 1

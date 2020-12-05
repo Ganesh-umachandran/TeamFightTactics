@@ -1,0 +1,40 @@
+Ability="Petrifying Gaze"
+
+Ability_Type="Active"
+
+Ability_Description = "Cassiopeia releases a cone of magic energy towards her target, dealing magic damage to all enemies hit, stunning them for a few seconds, and causing them to take 10% increased damage while stunned."
+
+Ability_Damage_Percentage= [ 275 , 400 , 2000]
+
+Ability_Stun_Duration= [ 2.5 , 3 , 5 ]
+
+Ability_Bonus_Damage_Percentage=[20 , 20 , 20 ]
+
+Origin="Dusk champions increase all allies Spell Power."
+
+Trait_Bonus_Spell_Power = {2:All allies gain 20% Spell Power,4:And Dusk champions gain an additional 50%,6:40% Spell Power for all, and an extra 70% for Dusk champions}
+
+Cost = 4
+
+Health = [750 , 1350 , 2430]
+
+Mana = 150
+
+Starting_Mana = 80
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[33 , 59 , 107]
+
+Damage=[  55 , 99 , 178]
+
+Attack_Speed = 0.6
+
+Critical_Rate = 25
+
+Range = 1
+
+
+

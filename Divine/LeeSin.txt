@@ -1,0 +1,43 @@
+Abilities = "God Fist"
+
+Ability_Type = "Active"
+
+Ability_Description = "Lee Sin punches his target,
+ dealing magic damage, knocking them back to the edge of the battlefield, 
+and stunning them for a few seconds.
+Any enemies the target collides with during the knockback receive half the damage and stunned for 1 second.
+If the target cannot be pushed back any further,
+they are knocked out of the battlefield instead,
+removing them from combat. If the target is still alive, Lee Sin will dash to them."
+
+Ability_Damage = [250 , 450 , 1000 ]
+
+Ability_Stun_Duration=[ 2 , 3 , 10]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 5
+
+Health = [1000 , 1800 , 3240]
+
+Mana = 40
+
+Starting_Mana = 60
+
+Armor = 50
+
+Manna_Regeneration = 50
+
+Damage_Per_Second=[ 51 , 92 , 165]
+
+Damage=[ 60 , 108 , 194]
+
+Attack_Speed = 0.85
+
+Critical_Rate = 25
+
+Range = 1

@@ -1,0 +1,40 @@
+Ability="Energy Slash"
+
+Ability_Type="Active"
+
+Ability_Description = " Riven dashes and shields herself, then slashes forward dealing magic damage to nearby enemies. Every third cast, Riven leaps into the air and launches forward a large wave of energy that deals magic damage."
+
+Ability_Damage= [ 175 , 250 , 750]
+
+Ability_Wave_Damage=[ 300 , 450 , 1350 ]
+
+Ability_Shield_Amount=[ 175 , 250 , 750 ]
+
+Origin="Dusk champions increase all allies Spell Power."
+
+Trait_Bonus_Spell_Power = {2:All allies gain 20% Spell Power,4:And Dusk champions gain an additional 50%,6:40% Spell Power for all, and an extra 70% for Dusk champions}
+
+Cost = 4
+
+Health = [ 800 , 1440 , 2592]
+
+Mana = 20
+
+Starting_Mana = 0
+
+Armor = 35
+
+Manna_Regeneration = 30
+
+Damage_Per_Second=[53 , 95 , 170]
+
+Damage=[ 70 , 126 , 227 ]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25
+
+Range = 1
+
+
+

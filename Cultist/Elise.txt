@@ -1,0 +1,35 @@
+Ability="Spider Form"
+
+Ability_Type="Active"
+
+Ability_Description = "Elise transforms into a spider, gaining bonus maximum health and causing her attacks to restore health."
+
+Ability_Bonus_Health_Percentage= [ 35 , 40 ,45 ]
+
+Ability_Health_on_Hit=[40,80,160]
+
+Origin="Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up."
+
+Cultist_Galio={ 3:Tyrant Galio, 6:Demon Lord Galio, 9:Supreme Overlord Galio }
+
+Cost = 1
+
+Health = [600 , 1080 , 1944]
+
+Mana = 75
+
+Starting_Mana = 0
+
+Armor = 30
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[29 , 53 , 95]
+
+Damage=[45 , 81 , 146]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

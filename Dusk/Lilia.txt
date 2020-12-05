@@ -1,0 +1,42 @@
+Ability="Lilting Lullaby"
+
+Ability_Type="Active"
+
+Ability_Description = "Lillia casts a magical lullaby, causing waking enemies with the highest current health to fall asleep. Enemies will awaken if they take damage while sleeping, causing an additional magic damage."
+
+Ability_Number of Enemies=[ 2 , 3 , 10 ]
+
+Ability_Damage= [ 500 , 750 , 5000]
+
+Ability_Break_Damage= [ 500 , 500 , 500]
+
+Ability_Duration= [  2 , 3 , 10 ]
+
+Origin="Dusk champions increase all allies Spell Power."
+
+Trait_Bonus_Spell_Power = {2:All allies gain 20% Spell Power,4:And Dusk champions gain an additional 50%,6:40% Spell Power for all, and an extra 70% for Dusk champions}
+
+Cost = 5
+
+Health = [950 , 1710 , 3078]
+
+Mana = 120
+
+Starting_Mana = 80
+
+Armor = 50
+
+Manna_Regeneration = 80
+
+Damage_Per_Second=[30 , 54 , 97]
+
+Damage=[  40 , 72 , 130 ]
+
+Attack_Speed = 0.75
+
+Critical_Rate = 25
+
+Range = 1
+
+
+

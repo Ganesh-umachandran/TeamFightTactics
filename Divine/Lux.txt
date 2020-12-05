@@ -1,0 +1,37 @@
+Abilities = "Light Binding"
+
+Ability_Type = "Active"
+
+Ability_Description = "Lux fires a sphere of darkness towards the farthest enemy. Enemies in its path take magic damage and are stunned for a few seconds."
+
+Ability_Damage = [300 , 400 , 700 ]
+
+Ability_Stun_Duration=[ 1.5 , 2 , 10]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 3
+
+Health = [600 , 1080 , 1944]
+
+Mana = 100
+
+Starting_Mana = 50
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 28 , 50 , 91]
+
+Damage=[ 40 , 72 , 130]
+
+Attack_Speed = 0.7
+
+Critical_Rate = 25
+
+Range = 1

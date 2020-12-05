@@ -1,0 +1,36 @@
+Ability="Silver Bolts"
+
+Ability_Type="Passive"
+
+Ability_Description = "Passive: Whenever Vayne Basic Attacks the same target 3 times, she deals bonus true damage."
+
+Ability_Bonus_True_Damage=[ 50 , 90 , 140 ]
+
+Origin="Dusk champions increase all allies Spell Power."
+
+Trait_Bonus_Spell_Power = {2:All allies gain 20% Spell Power,4:And Dusk champions gain an additional 50%,6:40% Spell Power for all, and an extra 70% for Dusk champions}
+
+Cost = 1
+
+Health = [ 500 , 900 , 1620]
+
+Mana = 0
+
+Starting_Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[ 36 , 65 , 117]
+
+Damage=[40 , 72 , 130 ]
+
+Attack_Speed = 0.0
+
+Critical_Rate = 25
+
+Range = 4
+
+
+

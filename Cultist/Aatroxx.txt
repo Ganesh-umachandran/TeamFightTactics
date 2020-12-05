@@ -1,0 +1,35 @@
+Ability="Infernal Chains"
+
+Ability_Type="Active"
+
+Ability_Description = "After a brief delay, Aatrox pulls in the farthest enemies then slams the ground, dealing magic damage to all adjacent enemies."
+
+Ability_Damage= [ 250 , 450 ,1250 ]
+
+Ability_No_of_Enemies=[2,2,5]
+
+Origin="Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up."
+
+Cultist_Galio={ 3:Tyrant Galio, 6:Demon Lord Galio, 9:Supreme Overlord Galio }
+
+Cost = 4
+
+Health = [800 , 1440 , 2592]
+
+Mana = 150
+
+Starting_Mana = 75
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[39 , 70 , 126]
+
+Damage=[60 , 108 , 194]
+
+Attack_Speed = 0.65
+
+Critical_Rate = 25
+
+Range = 1

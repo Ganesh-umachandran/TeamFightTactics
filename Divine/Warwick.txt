@@ -1,0 +1,42 @@
+Ability="Primal Hunger"
+
+Ability_Type="Active"
+
+Ability_Description = "Warwick gains Attack Speed, Lifesteal, and moves faster for the rest of combat. While in this state, if Warwick scores a takedown he howls, granting himself and all allies who share a trait with him Attack Speed for 3 seconds."
+
+Ability_Attack_Speed_Percentage= [ 135 , 150 ,500 ]
+
+Ability_Lifesteal_percentage = [50 , 50 , 200]
+
+Ability_Bonus_Attack_Speed_Percentage= [ 60 , 70 , 200 ]
+
+Origin="Upon attacking 6 times or dropping below 50% health,
+ Divine units remove all crowd control and ascend,
+ taking 50% reduced damage and dealing 50% bonus true damage for the duration of the ascension."
+
+Trait_Bonus_Time = {2:3,4:6,6:9,8:15}
+
+Cost = 4
+
+Health = [950 , 1710 , 3078]
+
+Mana = 70
+
+Starting_Mana = 0
+
+Armor = 40
+
+Manna_Regeneration = 40
+
+Damage_Per_Second=[68 , 122 , 220]
+
+Damage=[ 85 , 153 , 275]
+
+Attack_Speed = 0.8
+
+Critical_Rate = 25
+
+Range = 1
+
+
+

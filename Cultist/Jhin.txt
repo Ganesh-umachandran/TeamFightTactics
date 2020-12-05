@@ -1,0 +1,35 @@
+Ability="Whisper"
+
+Ability_Type="passive"
+
+Ability_Description = "Passive: Jhin converts each 1% of bonus attack speed he has into 0.8 attack damage. Every fourth shot, Jhin deals bonus damage."
+
+Ability_Percent_of_Attack_Damage= [ 444 , 500 ,1234 ]
+
+Ability_Attacks_Per_Second=[0.85,0.9,1.2]
+
+Origin="Once your team loses 50% of their health, Galio is summoned, slamming into the largest cluster of enemies and knocking them up."
+
+Cultist_Galio={ 3:Tyrant Galio, 6:Demon Lord Galio, 9:Supreme Overlord Galio }
+
+Cost = 4
+
+Health = [600 , 1080 , 1944]
+
+Mana = 0
+
+Starting_Mana = 0
+
+Armor = 20
+
+Manna_Regeneration = 20
+
+Damage_Per_Second=[80 , 144 , 259]
+
+Damage=[100 , 180 , 324]
+
+Attack_Speed = 0.8
+
+Critical_Rate = 25
+
+Range = 1
